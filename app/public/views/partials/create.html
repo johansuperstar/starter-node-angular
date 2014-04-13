@@ -1,0 +1,18 @@
+<article class="create-form" ng-controller="CreateController">
+	<div class="inner">
+		<h2>Create new Post</h2>
+		<form>
+			<div class="form-group">
+				<label for="heading">Heading</label>
+				<input type="text" placeholder="heading" id="heading" ng-model="post.heading" class="form-control" required />
+			</div>
+
+			<div class="form-group">
+				<label for="body">Body</label>
+				<textarea placeholder="body" id="body" ng-model="post.body" class="form-control" rows="3" required></textarea>
+			</div>
+			
+			<input type="submit" value="Create" class="btn btn-primary" ng-click="create(post)" />
+		</form>
+	</div>
+</article>

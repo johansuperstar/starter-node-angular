@@ -1,30 +1,25 @@
+var posts = require('./controllers/posts');
+
 module.exports = function(app) {
-	// server routes ===========================================================
-	// handle things like api calls
-	// authentication routes
 
-	// sample api route
-	app.get('/api/nerds', function(req, res) {
 
-		// use mongoose to get all nerds in the database
-		// Nerd.find(functoin(err, nerds) {
-		// 	// if there is an error retrieving, send the error. nothing after res.send(err) will execute
-		// 	if (err)
-		// 		res.send(err);
+	/* --- Posts routes --- */
+	
+	app.get('/api/posts', posts.all);
 
-		// 	res.json(nerds); // return all nerds in JSON format
-		// });
+	app.get('/api/posts/:id', posts.single);
 
-		res.send('hello there');
-	});
+	app.post('/api/posts', posts.create);
 
-	// route to handle creating (app.post)
-	// route to handle delete (app.delete)
+	app.delete('/api/posts/:id', posts.delete);
+
+	app.put('/api/posts', posts.update);
+
 
 	// frontend routes =========================================================
 	// route to handle all angular requests
 	app.get('*', function(req, res) {
-		res.sendfile('./public/views/index.html'); // load our public/views/index.html file
+		res.sendfile('./public/views/index.html'); // load public/views/index.html file
 	});
 
 };

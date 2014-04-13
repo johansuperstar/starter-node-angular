@@ -1,0 +1,1 @@
+angular.module('postApp', ['ngRoute', 'appRoutes', 'MainCtrl', 'CreateCtrl', 'EditCtrl', 'postService']);

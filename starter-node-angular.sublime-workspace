@@ -1,0 +1,332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"showDropdown"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"Mo",
+				"model"
+			],
+			[
+				"up",
+				"updatedAt"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"typ",
+				"typeof"
+			],
+			[
+				"ge",
+				"getPosts"
+			],
+			[
+				"routeP",
+				"routeParams"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"dep",
+				"departures"
+			],
+			[
+				"Do",
+				"DisplayRow1"
+			],
+			[
+				"Dis",
+				"DisplayRow2"
+			],
+			[
+				"for",
+				"formattedDepartures"
+			],
+			[
+				"Di",
+				"DisplayRow2"
+			],
+			[
+				"Displa",
+				"DisplayRow1"
+			],
+			[
+				"de",
+				"departures"
+			],
+			[
+				"station",
+				"StationName"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"opt",
+				"option	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/johan/code/starter-node-angular/public/views/partials/posts.html",
+		"/Users/johan/code/starter-node-angular/public/js/controllers/mainCtrl.js",
+		"/Users/johan/code/starter-node-angular/starter-node-angular.sublime-workspace",
+		"/Users/johan/code/starter-node-angular/starter-node-angular.sublime-project",
+		"/Users/johan/code/starter-node-angular/server.js",
+		"/Users/johan/code/starter-node-angular/app/controllers/posts.js",
+		"/Users/johan/code/starter-node-angular/app/routes.js",
+		"/Users/johan/code/starter-node-angular/public/styles/style.css",
+		"/Users/johan/code/starter-node-angular/public/js/directives/dropdown.js",
+		"/Users/johan/code/starter-node-angular/app/models/post.js",
+		"/Users/johan/code/starter-node-angular/app/models/posts.js",
+		"/Users/johan/code/starter-node-angular/app/server.js",
+		"/Users/johan/code/starter-node-angular/package.json",
+		"/Users/johan/code/starter-node-angular/public/js/appRoutes.js",
+		"/Users/johan/code/starter-node-angular/public/js/app.js",
+		"/Users/johan/code/starter-node-angular/public/js/services/postService.js",
+		"/Users/johan/code/starter-node-angular/public/js/controllers/createCtrl.js",
+		"/Users/johan/code/starter-node-angular/public/views/index.html",
+		"/Users/johan/code/starter-node-angular/public/js/controllers/editCtrl.js",
+		"/Users/johan/code/starter-node-angular/public/views/partials/edit.html",
+		"/Users/johan/code/starter-node-angular/public/views/partials/create.html",
+		"/Users/johan/code/starter-node-angular/config/db.js",
+		"/Users/johan/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/johan/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/johan/code/starter-node-angular/public/views/partials/nerd.html",
+		"/Users/johan/code/starter-node-angular/public/libs/bootstrap/dist/css/bootstrap.css",
+		"/Users/johan/code/tunnelbana/app/index.html",
+		"/Users/johan/code/meantest/public/js/controllers/articles.js",
+		"/Users/johan/code/tunnelbana/app/js/app.js",
+		"/Users/johan/code/tunnelbana/app/js/controllers.js",
+		"/Users/johan/code/tunnelbana/app/js/services.js",
+		"/Users/johan/code/starter-node-angular/public/js/services/GeekService.js",
+		"/Users/johan/code/starter-node-angular/public/js/services/NerdService.js",
+		"/Users/johan/code/starter-node-angular/public/js/controllers/GeekCtrl.js",
+		"/Users/johan/code/meantest/bower.json",
+		"/Users/johan/code/meantest/public/css/common.css",
+		"/Users/johan/code/meantest/public/css/views/articles.css",
+		"/Users/johan/code/meantest/public/views/header.html",
+		"/Users/johan/code/meantest/public/views/articles/view.html",
+		"/Users/johan/code/meantest/public/views/articles/edit.html",
+		"/Users/johan/code/meantest/public/views/articles/create.html",
+		"/Users/johan/code/meantest/public/views/index.html",
+		"/Users/johan/code/angular-phonecat/app/js/controllers.js",
+		"/Users/johan/code/angular-phonecat/app/css/bootstrap.css",
+		"/Users/johan/code/angular-phonecat/app/css/app.css",
+		"/Users/johan/code/meantest/app/views/users/signin.jade",
+		"/Users/johan/Code/tunnelbana/app/api/9192.json",
+		"/Users/johan/Code/tunnelbana/app/js/controllers.js",
+		"/Users/johan/Code/tunnelbana/app/api/9294.json",
+		"/Users/johan/Code/tunnelbana/app/css/app.css",
+		"/Users/johan/Code/tunnelbana/app/departure.html",
+		"/Users/johan/Code/tunnelbana/scripts/web-server.js",
+		"/Users/johan/Code/tunnelbana/app/js/app.js",
+		"/Users/johan/Code/tunnelbana/app/index.html",
+		"/Users/johan/code/meantest/app/views/index.jade",
+		"/Users/johan/Code/tunnelbana/app/api/1.json",
+		"/Users/johan/Code/tunnelbana/app/js/directives.js",
+		"/Users/johan/Code/tunnelbana/app/js/filters.js",
+		"/Users/johan/Code/tunnelbana/app/js/services.js",
+		"/Users/johan/Code/angular-phonecat/app/js/controllers.js",
+		"/Users/johan/Code/angular-phonecat/test/e2e/scenarios.js",
+		"/Users/johan/Code/angular-phonecat/test/unit/controllersSpec.js",
+		"/Users/johan/Code/angular-phonecat/app/css/app.css",
+		"/Users/johan/Code/angular-phonecat/app/phones/phones.json",
+		"/Users/johan/Code/angular-phonecat/app/index.html",
+		"/Users/johan/Code/tunnelbana/package.json",
+		"/Users/johan/Code/angular-phonecat/app/js/filters.js",
+		"/Users/johan/Code/angular-phonecat/app/js/app.js",
+		"/Users/johan/Code/angular-phonecat/test/lib/angular/angular-scenario.js",
+		"/Users/johan/Code/angular-phonecat/package.json",
+		"/Users/johan/Downloads/hannas-tema/library/css/style.css",
+		"/Users/johan/Downloads/hannas-tema/page-home.php",
+		"/Users/johan/Downloads/hannas-tema/page.php",
+		"/Users/johan/Downloads/hannas-tema/style.css",
+		"/Users/johan/Downloads/hannas-tema/library/scss/_base.scss",
+		"/Users/johan/Downloads/hannas-tema/library/less/_base.less"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_",
+			"postModel",
+			"post",
+			"60",
+			"a",
+			"css",
+			"		$",
+			"';\n",
+			"></"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Post",
+			"50"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mainc",
+				"js/controllers/mainCtrl.js"
+			],
+			[
+				"posts",
+				"views/partials/posts.html"
+			],
+			[
+				"i",
+				"/Users/johan/code/starter-node-angular/public/views/index.html"
+			],
+			[
+				"m",
+				"/Users/johan/code/starter-node-angular/public/js/controllers/MainCtrl.js"
+			],
+			[
+				"s",
+				"/Users/johan/code/starter-node-angular/public/styles/style.css"
+			],
+			[
+				"in",
+				"/Users/johan/code/starter-node-angular/public/views/index.html"
+			],
+			[
+				"ap",
+				"/Users/johan/code/starter-node-angular/public/js/app.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true
+}

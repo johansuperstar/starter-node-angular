@@ -1,1 +1,10 @@
-angular.module('sampleApp', ['ngRoute', 'appRoutes', 'MainCtrl', 'NerdCtrl', 'NerdService', 'GeekCtrl', 'GeekService']);
+angular.module('postApp', [
+	'ngRoute', 
+	'appRoutes', 
+	'MainCtrl', 
+	'CreateCtrl', 
+	'EditCtrl', 
+	'DropdownCtrl',
+	'postService',
+	'ui.bootstrap'
+]);
